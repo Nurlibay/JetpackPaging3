@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Paging3</string>
+    <string name="product_list">Products</string>
+    <string name="something_went_wrong">Something went wrong.</string>
+</resources>
